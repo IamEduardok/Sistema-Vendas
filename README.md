@@ -1,11 +1,3 @@
-
-
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/https://github.com/IamEduardok/Sistema-Vendas.git?color=FFC603" />
-	<img alt="Main language" src="https://img.shields.io/github/languages/top/https://github.com/IamEduardok/Sistema-Vendas.git?color=FFC603"/>
-	<img alt="License" src="https://img.shields.io/github/license/https://github.com/IamEduardok/Sistema-Vendas.git?color=FFC603"/>
-</p>
-
 ## 📘 Sobre o Projeto
 
 O **Sistema de Gestão de Vendas** é uma aplicação Java desenvolvida em modo terminal, utilizando **Java puro**, com persistência de dados via **arquivos CSV**, voltada ao gerenciamento de produtos e vendas.
